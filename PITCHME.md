@@ -12,7 +12,7 @@
 - どうかな
 - なったかな
 
----?code=index.html
+---?code=index.js
 
 
 ### 3枚目のスライド
