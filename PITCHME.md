@@ -12,13 +12,12 @@
 - どうかな
 - なったかな
 
----
-
-?code=index.js
+---?code=index.js
 3枚目のスライド
 
 
+---?code=index.html
+４枚目
+
 ---
-
-
 ### おわり
